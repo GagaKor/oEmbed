@@ -30,3 +30,8 @@ embedResult = objMapper.readValue(embedRes, new TypeReference<Map<String, Object
 ```
 ---------------------------
 #### 출력화면
+![11](https://user-images.githubusercontent.com/80230648/127473191-cdecda08-a688-434c-9019-79b5da7ed51b.jpg)
+
+링크 입력시 해당 형식 출력
+![321](https://user-images.githubusercontent.com/80230648/127473491-e22cde43-341e-4949-bd94-7185562cc1f5.PNG)
+
